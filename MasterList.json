@@ -364,5 +364,19 @@
       "VCQLQuestZones.dll"
     ],
     "ConfigFiles": []
+  },
+  {
+    "Name": "Ram Cleaner Fix",
+    "Author": "CactusPie",
+    "SupportedVersion": "1.10.8854.18454",
+    "ModVersion": "1.0.0",
+    "PortVersion": "1.0.0",
+    "Description": "A workaround for RAM Cleaner running only in the settings menu",
+    "ModUrl": "https://hub.sp-tarkov.com/files/file/1827-ram-cleaner-fix/",
+    "RequiresFiles": false,
+    "PluginFiles": [
+      "CactusPie.RamCleanerInterval.dll"
+    ],
+    "ConfigFiles": []
   }
 ]
